@@ -1,0 +1,194 @@
+#topborder{
+    border: 1px solid;
+    height: 20px;
+    background-color: black;
+    color:azure;
+    border-radius: 2px;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    margin-bottom: 0px;
+}
+#toptext{
+    padding: 1px;
+    margin-top: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+}
+#collegetitle{
+    border: 2px solid black;
+    background-color: white;
+    height: 120px;
+    border-radius: 2px;
+    padding-top:5px ;
+    margin-bottom: 1px;
+}
+#collegetitle2{
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 35px;
+    color: red;
+}
+#collegetitle3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 35px;
+    color: #4b238a;
+    top: 500px;
+}
+#logo{
+    float: left;
+}
+#collegedetails{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    color: red;
+}
+#news{
+    border: 1px solid;
+    height: 20px;
+    background-color: rgb(35, 66, 143);
+    color: azure;
+    border-radius: 4px;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    margin-bottom: 2px;
+
+}
+body{
+    background-color:aliceblue;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;  
+}
+#login{
+    border: 1px solid rgb(35, 66, 143);
+    border-radius: 7px;
+    height: 460px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 415px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 8px rgb(35, 66, 143);
+
+}
+#login2{
+    color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 30px;
+    margin-top: 19px;
+    margin-left: 60px;
+}
+#form1{
+    margin-top: 65px;
+    margin-left: 75px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    color:rgb(35, 66, 143) ;
+}
+.input{
+    border-radius: 10px;
+    height: 40px;
+    width: 250px;
+    border: 1px solid;
+    box-shadow: 3px 5px 7px rgb(35, 66, 143);
+    padding-left: 120px;
+    margin-top: 10px;
+    
+
+
+}
+.title{
+    margin-left: 120px;
+    box-sizing: border-box;
+    border: 0.5px solid;
+    height: 80px;
+    width: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 3px 5px 7px rgb(35, 66, 143);
+    background-color: rgb(121, 152, 231);
+    color: white;
+
+}
+#menid2{
+    margin-top: 9px;
+}
+#submit{
+    height: 35px;
+    width: 100px;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 3px;
+    background-color:rgb(121, 152, 231) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+    color: white;
+    margin-top: 25px;
+    margin-left: 198px;
+    padding-left: 3px;
+    box-shadow: 3px 5px 7px rgb(35, 66, 143);
+
+}
+#lg{
+    margin-left: 7px;
+    margin-top: 0px;
+}
+#credits{
+    border: 1px solid;
+    height: 350px;
+    background-color: rgb(20, 18, 18);
+    border-radius: 2px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    color:white
+}
+#fonts{
+    margin-left: 415px;
+    bottom: 15px;
+}
+#fonts2{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+#fonts3{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.logo3{
+    margin-left: 50px;
+    float: left;
+    margin-top: 20px;
+    border-radius: 3px;
+    margin-right: 8px;
+}
+#trump{
+    margin-left: 550px;
+    top: 10px;
+    left: 20px;
+}
+#submit1{
+    background-color: transparent;
+    border: 1px transparent;
+    color: azure;
+    font-size: 22px;
+    margin-left: 2px;
+}
+#eminem{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+    color: white;
+}
